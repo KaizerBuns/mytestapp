@@ -1,0 +1,7 @@
+/* TEXTS */
+/*======================================*/
+.text-light,
+a.text-light:hover,
+a.text-light:focus {
+  color: #fff;
+}
